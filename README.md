@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Shri
+#  Hi 👋, I'm Shri💫 
 <h3 align="center">🤖 AI Engineer & Data Scientist| Turning Data into Insights 🚀</h3>
 
 <p align="center">
