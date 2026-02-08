@@ -1,13 +1,15 @@
 # 💫 Hi 👋, I'm Shri
-**A passionate AI Engineer**
+<h3 align="center">🤖 AI Engineer & Data Scientist| Turning Data into Insights 🚀</h3>
 
-Email Me 👉 ✉️ **shri.bainwad100cr@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt4bGx0NjEweWZtczJtbWtxdWptd29tdnI1cjNuZHByaWhxOHhkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gwwg7fBSUQ6WmpjKEo/giphy.gif" width="30%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Bzc2x6aDE1amE1NTY3OXZvZHBkbnl4M3RxeDRmdnlka2VvOWRweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TtTVTmBoXp8txRU0C/giphy.gif" width="54%"/>
+</p>
 
-- 🔭 **I’m currently working on:** AI Project
-- 🌱 **I’m currently learning:** Upcoming AI Technology
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** shri.bainwad100cr@gmail.com 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
+---
+
   
 🚀 Data Science Explorer | Machine Learning Enthusiast | Deep Learning Practitioner<br>📊 Turning raw data into actionable insights using Python, ML, and AI<br>💡 Passionate about building models that solve real-world problems<br>🧠 Exploring NLP, Computer Vision, and Generative AI<br>🌱 Currently enhancing my skills in MLOps & LLMs
 
@@ -41,3 +43,12 @@ Email Me 👉 ✉️ **shri.bainwad100cr@gmail.com** For Collaboration/Project o
 [![](https://visitcount.itsvg.in/api?id=Shri-ds100cr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 💡 **Fun Fact**
+🎯 **AI is not replacing humans, it's empowering them!**  
+📊 **Data is the new oil, and I'm refining it!**  
+
+---
+
+### 📢 **Want to Collaborate?**
+If you're passionate about **Data Science, AI, or ML**, let's connect and work on something amazing! 🚀
