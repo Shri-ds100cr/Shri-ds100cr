@@ -12,6 +12,7 @@
 
   
 🚀 Data Science Explorer | Machine Learning Enthusiast | Deep Learning Practitioner<br>📊 Turning raw data into actionable insights using Python, ML, and AI<br>💡 Passionate about building models that solve real-world problems<br>🧠 Exploring NLP, Computer Vision, and Generative AI<br>🌱 Currently enhancing my skills in MLOps & LLMs
+🔗 Learning Channel Link:https://www.instagram.com/channel/Abbdo_t6jZAMlO0w/?igsh=MTdqZTM5M3k1MnAwcg==
 
 
 ## 🌐 Socials:
