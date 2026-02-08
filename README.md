@@ -13,8 +13,6 @@
   
 🚀 Data Science Explorer | Machine Learning Enthusiast | Deep Learning Practitioner<br>📊 Turning raw data into actionable insights using Python, ML, and AI<br>💡 Passionate about building models that solve real-world problems<br>🧠 Exploring NLP, Computer Vision, and Generative AI<br>🌱 Currently enhancing my skills in MLOps & LLMs
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shri-ds100cr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/shrikrishna.ramanbainwad.39) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/blessed_s0ul96/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shrikrishna-ramnbainwad-a31233166/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@shri.bainwad100cr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shri.bainwad100cr@gmail.com ) 
@@ -52,3 +50,7 @@
 
 ### 📢 **Want to Collaborate?**
 If you're passionate about **Data Science, AI, or ML**, let's connect and work on something amazing! 🚀
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shri-ds100cr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
